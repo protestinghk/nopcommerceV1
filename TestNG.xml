@@ -9,14 +9,14 @@
 <parameter name = "browser" value ="chrome"/>
 <classes>
 <class name = "com.nopcommerce.testCases.TC_LoginTest_001"/>
-<!--<class name = "com.nopcommerce.testCases.TC_LoginDDT_002"/>
+<class name = "com.nopcommerce.testCases.TC_LoginDDT_002"/>
 <class name = "com.nopcommerce.testCases.TC_AddCustomerTest_003"/>
 <class name = "com.nopcommerce.testCases.TC_SearchCustomerByEmail_004"/>
-<class name = "com.nopcommerce.testCases.TC_SearchCustomerByName_005"/>-->
+<class name = "com.nopcommerce.testCases.TC_SearchCustomerByName_005"/>
 </classes>
 </test>
 
-<!-- <test name="firefoxTest">
+<test name="firefoxTest">
 <parameter name = "browser" value ="firefox"/>
 <classes>
 <class name = "com.nopcommerce.testCases.TC_LoginTest_001"/>
@@ -36,5 +36,5 @@
 <class name = "com.nopcommerce.testCases.TC_SearchCustomerByEmail_004"/>
 <class name = "com.nopcommerce.testCases.TC_SearchCustomerByName_005"/>
 </classes>
-</test>-->
+</test>
 </suite>
